@@ -9,7 +9,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm:
 ```
-step 1. Initialize Parameters
+step 1. start the program.
 step 2. Hypothesis Function (Sigmoid Function)
 step 3. Cost Function (Log-Loss)
 step 4. Gradient Calculation
@@ -17,6 +17,7 @@ step 5. Parameter Update
 step 6. Repeat for Multiple Iterations
 step 7. Prediction Function
 step 8. Model Evaluation
+step 9. end the program.
 ```
 ## Program:
 ```
